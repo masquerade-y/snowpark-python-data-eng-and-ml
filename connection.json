@@ -1,0 +1,9 @@
+{
+  "account"   : "ENTER YOUR ACCOUNT",
+  "user"      : "ENTER YOUR USER",
+  "password"  : "ENTER YOUR PASSWORD",
+  "role"      : "SYSADMIN",
+  "warehouse" : "DASH_L",
+  "database"  : "DASH_DB",
+  "schema"    : "DASH_SCHEMA"
+}
